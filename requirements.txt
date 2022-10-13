@@ -17,7 +17,6 @@ black==22.10.0
 bleach==5.0.1
 blinker==1.5
 cachetools==5.2.0
-certifi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_0ek9yztvu3/croot/certifi_1665076692562/work/certifi
 cffi==1.15.1
 chardet==5.0.0
 charset-normalizer==2.1.1
@@ -119,7 +118,6 @@ python-slugify==6.1.2
 pytoolconfig==1.2.2
 pytz==2022.4
 pytz-deprecation-shim==0.1.0.post0
-PyYAML==6.0
 pyzmq==24.0.1
 QDarkStyle==3.0.3
 qstylizer==0.2.2
